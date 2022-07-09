@@ -72,17 +72,12 @@ footer div{
         font-size: 1.2rem;
         color: $violet;
     }
-/*      RESPONSIVE DESIGN   */
+
 @media (min-width:1200px){
-    header h1{
-        font-size: 4rem
-    }
-    header h2{
+    header{
         font-size: 2rem;
     }
-    main nav div ul{
-        font-size: 1.2rem;
-    }
+    
     footer{
         font-size: 1.2rem;
     }
